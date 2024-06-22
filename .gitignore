@@ -6,6 +6,7 @@ luac.out
 *.zip
 *.tar.gz
 
+.vs/
 # Object files
 *.o
 *.os
